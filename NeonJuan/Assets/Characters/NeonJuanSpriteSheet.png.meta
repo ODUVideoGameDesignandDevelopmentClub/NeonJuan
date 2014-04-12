@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 4888789f081484105bc6906657ef9c43
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: LeftArm
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 605
+        width: 113
+        height: 90
+      alignment: 9
+      pivot: {x: .243795753, y: .701049805}
+    - name: Head
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 452
+        width: 416
+        height: 283
+      alignment: 9
+      pivot: {x: .573943675, y: .161129043}
+    - name: RightArm
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 525
+        width: 46
+        height: 69
+      alignment: 9
+      pivot: {x: .600000024, y: .75}
+    - name: LeftHand
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 462
+        width: 141
+        height: 118
+      alignment: 9
+      pivot: {x: .217675611, y: .269986421}
+    - name: RightHand
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 451
+        width: 153
+        height: 69
+      alignment: 9
+      pivot: {x: .180686608, y: .604895532}
+    - name: RightLegUpper
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 263
+        width: 91
+        height: 97
+      alignment: 9
+      pivot: {x: .600000024, y: .800000012}
+    - name: LeftLegUpper
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 284
+        width: 86
+        height: 97
+      alignment: 9
+      pivot: {x: .400000006, y: .800000012}
+    - name: Torso
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 210
+        width: 212
+        height: 207
+      alignment: 9
+      pivot: {x: .568281054, y: .263985753}
+    - name: RightLegLower
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 39
+        width: 104
+        height: 181
+      alignment: 9
+      pivot: {x: .691383362, y: .879883051}
+    - name: LeftLegLower
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 44
+        width: 127
+        height: 166
+      alignment: 9
+      pivot: {x: .34327662, y: .903309762}
+  spritePackingTag: 
+  userData: 
