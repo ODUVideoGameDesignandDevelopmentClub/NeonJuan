@@ -52,20 +52,23 @@ public class PlayerControl : MonoBehaviour {
 			if(currentBaseState.nameHash == punchOneState)
 			{
 				anim.SetTrigger("Punch2");
-				rightFist.enabled = true;
-				//leftFist.enabled = false;
 			}
 			else if(currentBaseState.nameHash == idleState)
 			{
 				anim.SetTrigger("Punch1");
-				leftFist.enabled = true;
 			}
 		}
-		else if(currentBaseState.nameHash == idleState)
-		{
+
+		if(currentBaseState.nameHash == punchOneState)
+			leftFist.enabled = true;
+		else
 			leftFist.enabled = false;
-			rightFist.enabled = false;		
-		}
+
+		if(currentBaseState.nameHash == punchTwoState)
+			rightFist.enabled = true;
+		else
+			rightFist.enabled = false;
+
 	}
 
 	void FixedUpdate()
