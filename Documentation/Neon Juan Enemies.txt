@@ -1,0 +1,138 @@
+Enemies for Neon Juan:
+
+Neotech Nuke Gang
+ - Robot Legs
+   - Melee
+ - Eye Guy
+   - Ranged
+ - Rocket Arm
+   - Melee and Ranged
+
+Mexican Food Enemies
+ - Chili peppers
+    - melee
+ - Mexican Jumping beans
+    - melee
+ - Nacho Chips
+    - ranged
+ - Burrito
+    - melee
+
+Mexican Aliens
+ - Ranged
+ - Melee
+ - Trappers
+
+Desert Animals
+ - Scorpians
+   - melee
+ - Armadillo
+   - melee
+ - Snakes
+   - melee and ranged
+ - Hawk
+   - melee
+
+Aztec Police
+ - Swat team
+   - ranged
+ - Beat cops
+   - melee
+
+Luchadores
+ - Light weight wrestlers
+   - melee
+ - Medium weight wrestlers
+   - melee
+ - Heavy weight wrestlers
+   - melee
+
+Robot Candy Skeleton
+ - Blue skulls candies
+   - melee
+ - Green Candy skeletons
+   - melee
+ - Red Ranged skull throwers
+   - ranged
+
+Mariachi Band
+ - Trumpet Players
+   - melee
+ - Guitar Players
+   - melee
+ - Singer
+   - ranged
+ - Violinist
+   - melee
+
+Neon Juan Bots
+ - Miniature Bots
+   - melee
+ - Neon Mimics
+   - melee (If Grapple include)
+
+Old Robot Minions
+ - Walkers
+   - melee
+ - Cane bots
+   - melee
+ - The Elders
+   - ranged
+
+T.A.C.O. Executives
+ - Suits
+    - melee
+ - CEO's
+    - ranged
+ - Finance department
+    - ranged
+ - Interns
+    - melee
+
+
+
+Talk to Danial about a grappel mechanic for Juan.
+
+
+
+Bosses for Neon Juan:
+
+Chip and Ole
+ - Very mobile almost jumping in nature
+ - A pot mechanic that the player can knock them down, stun the peppers and attack them. Attack the wrong pot and it can explode damaging the player.
+ - Invincible when moving
+ - They have a slam attack that will knock things off of the cieling. Stuns them temporarily. (enraged mechanic?)
+ - Things falling from the cieling can harm you
+ - can throw pepper bombs that due a small area damage. (enrage mechanic?)
+
+Skull Dude (Tom)
+ - Maybe move all of his segments (If we have time)
+ - Pattern movement
+
+ First form:
+  - Blocky movement pattern
+  - Basic slam attack. Does and area of effect. He will attack once he gets near you.
+  - He takes damage when he loses enough of his bones around his skull
+  - Spawns explosive mini skull enemies (Another easy AI)
+
+ Second Form:
+  - Giant Brain in a jar
+  - Speed increases
+  - Stab down attack
+  - Sweeping side attack
+  - The core will separate from the body. The player attacks the core. Core weakens the boss and boss becomes temporarily paralyzed after a certain amount of damage.     Player can then attack the body to damage the boss. Body is invincible otherwise.
+
+UFS (Unidentified Flying Sombrero)
+
+ First Form:
+  - Faster speed
+  - Tractor beam
+  - Spawns attack cows
+  - Will do sweeping motions and will dive to attack
+ 
+ Second Form:
+  - 
+
+Quetzalcoatl
+ - Segmented boss
+ 
